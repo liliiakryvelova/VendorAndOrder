@@ -8,7 +8,7 @@ https://github.com/liliiakryvelova/VendorAndOrder.git
 
 ## Technologies Used
 
-* _ASP.NET MVC_
+* _ASP.NET Core MVC_
 * _Razor_
 
 ## Description
